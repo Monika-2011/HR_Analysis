@@ -90,4 +90,19 @@ This project demonstrates how data analytics and machine learning can help HR de
 
 ---
 
-## 🚀 Future Impr
+## 🚀 Future Improvements
+- Hyperparameter tuning for better accuracy  
+- Use advanced models like XGBoost  
+- Deploy model using Flask or Streamlit  
+- Create an interactive dashboard  
+
+---
+
+## 👩‍💻 Author
+Monika Gopal Nirmale  
+B.Tech – Data Science  
+
+---
+
+## ⭐ If you like this project
+Don’t forget to star ⭐ the repository and share your feedback!
